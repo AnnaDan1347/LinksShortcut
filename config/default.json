@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "dreamsoft secret",
+  "mongoUri": "mongodb+srv://AnnaDan:anna@cluster0.5tyoi.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
